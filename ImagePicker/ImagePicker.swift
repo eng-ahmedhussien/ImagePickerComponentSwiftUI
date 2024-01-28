@@ -1,6 +1,5 @@
 //
 //  ImagePicker.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 13/08/2023.
 //
