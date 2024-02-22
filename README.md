@@ -1,4 +1,4 @@
-#SwiftUI Image Picker Component
+# SwiftUI Image Picker Component
 
 Description:
 
